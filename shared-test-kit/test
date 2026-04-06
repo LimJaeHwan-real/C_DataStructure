@@ -12,7 +12,7 @@ Usage:
   ./test all                   Run all tests
   ./test status                List all discovered problems and test definitions
   ./test list [n]              Run all Linked_List tests, or one question if n is given
-  ./test queue [n]             Run all Stack_and_Queue tests, or one question if n is given
+  ./test stack [n]             Run all Stack_and_Queue tests, or one question if n is given
   ./test tree [n]              Run all Binary_Tree tests, or one question if n is given
   ./test bst [n]               Run all Binary_Search_Tree tests, or one question if n is given
   ./test install               Create root wrappers so recipients can use ./test from the project root
